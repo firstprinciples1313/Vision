@@ -1,6 +1,6 @@
 # Vision
 
-Vision is an experimental, local-first system that explores how perceptual input (such as images) can be transformed into meaningful outputs (such as audio).
+Vision is an experimental, local-first system that explores how perceptual input (such as images) can be transformed into meaningful outputs (such as audio). 
 
 ## Current Scope (Phase 1)
 
@@ -24,6 +24,7 @@ These may be explored in future iterations.
 
 Vision is designed as a modular and evolving system.  
 Early decisions prioritize simplicity and flexibility over completeness.
+This is the initial part fo the project and eventaully it is going to grow from here to something where there is an input and we are mapping it to an output. kind of like a function thing.
 
 ## Status
 
