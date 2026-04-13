@@ -11,7 +11,8 @@ h11==0.16.0
 hf-xet==1.4.3
 httpcore==1.0.9
 httpx==0.28.1
-huggingface_hub==1.9.0
+# huggingface_hub==1.9.0
+huggingface_hub>=0.23.2,<1.0.0  # Downgrading from 1.9.0 to stable 0.x
 idna==3.11
 Jinja2==3.1.6
 markdown-it-py==4.0.0
@@ -38,6 +39,7 @@ torch==2.11.0+cpu
 torchaudio==2.11.0+cpu
 torchvision==0.26.0+cpu
 tqdm==4.67.3
-transformers==5.5.0
+# transformers==5.5.0
+transformers>=4.44.2,<5.0.0  # Downgrading from 5.5.0 to stable 4.x
 typer==0.24.1
 typing_extensions==4.15.0
