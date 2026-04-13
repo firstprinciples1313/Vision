@@ -1,3 +1,6 @@
+#python cache files/folder
+__pycache__/
+
 .vscode
 .venv
 Sample_Images/
